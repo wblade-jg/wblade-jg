@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="32" viewBox="0 0 800 32" role="img" aria-label="Sobre mí">
+  <title>Sobre mí</title>
+  <text x="4" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#58a6ff">$</text>
+  <text x="26" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e6edf3" textLength="58" lengthAdjust="spacing" xml:space="preserve">whoami</text>
+  <line x1="98" y1="17" x2="796" y2="17" stroke="#8b949e" stroke-opacity="0.4" stroke-width="1"/>
+</svg>
